@@ -11,6 +11,7 @@ import dao.impl.MagazineDaoImpl;
 import domain.Magazine;
 import service.MagazineService;
 
+//other commit
 public class MagazineServiceImpl  implements MagazineService {
 
 	private MagazineDao magazineDao;
