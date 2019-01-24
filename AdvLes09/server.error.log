@@ -1,0 +1,13 @@
+2019-01-22 17:50:27 ERROR UserDao:67 - java.sql.SQLException: Column 'id_user' not found.
+2019-01-22 17:50:27 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2pac' for key 'username'
+2019-01-22 17:50:27 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'IceCube' for key 'username'
+2019-01-22 17:50:27 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'Eminem' for key 'username'
+2019-01-22 17:55:30 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2pac' for key 'username'
+2019-01-22 17:55:30 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'IceCube' for key 'username'
+2019-01-22 17:55:30 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'Eminem' for key 'username'
+2019-01-22 17:55:59 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2pac' for key 'username'
+2019-01-22 17:55:59 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'IceCube' for key 'username'
+2019-01-22 17:55:59 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'Eminem' for key 'username'
+2019-01-22 19:22:06 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry '2pac' for key 'username'
+2019-01-22 19:22:06 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'IceCube' for key 'username'
+2019-01-22 19:22:06 ERROR UserDao:48 - java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'Eminem' for key 'username'
